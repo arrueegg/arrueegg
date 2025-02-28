@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm [Your Name]
+## 🚀 Machine Learning & Ionospheric Researcher | PhD Student @ ETH
+I work on data fusion for ionospheric modeling, integrating VLBI, GNSS, and ML to improve global ionospheric maps.
 
-<!--
-**arrueegg/arrueegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+Programming: Python (PyTorch, NumPy, Pandas, Matplotlib), Bash
+Data Processing: HDF5, HPC (ETH Euler Cluster), Parallel Computing
+ML & Modeling: Neural Networks, Kalman Filters, Time-Series Analysis
+DevOps & Tools: Git, VS Code, Linux
 
-Here are some ideas to get you started:
+## 📌 Interests
+🌍 Geodesy & Space Weather | 🤖 AI & Forecasting | 🚀 HPC & Scientific Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Let's connect! https://www.linkedin.com/in/arnorueegg/
+
