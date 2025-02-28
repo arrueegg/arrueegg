@@ -1,5 +1,5 @@
-### 👋 Hi, I'm [Your Name]
-## 🚀 Machine Learning & Ionospheric Researcher | PhD Student @ ETH
+### 👋 Hi, I'm Arno
+## 🚀 PhD Student @ ETH Zürich | Institute of Geodesy and Photogrammetry | Space Geodesy lab 
 I work on data fusion for ionospheric modeling, integrating VLBI, GNSS, and ML to improve global ionospheric maps.
 
 ## 🔧 Tech Stack
