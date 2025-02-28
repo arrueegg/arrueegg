@@ -9,7 +9,7 @@ ML & Modeling: Neural Networks, Kalman Filters, Time-Series Analysis
 DevOps & Tools: Git, VS Code, Linux
 
 ## 📌 Interests
-🌍 Geodesy & Space Weather | 🤖 AI & Forecasting | 🚀 HPC & Scientific Computing
+🌍 Geodesy & Space Weather | 🤖 AI & Forecasting | 📸 Computer Vision | 🚀 HPC & Scientific Computing
 
 🔗 Let's connect! https://www.linkedin.com/in/arnorueegg/
 
