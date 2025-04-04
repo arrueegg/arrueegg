@@ -5,7 +5,7 @@ I work on data fusion for ionospheric modeling, integrating VLBI, GNSS, and ML t
 ### 🔧 Tech Stack
 Programming: Python (PyTorch, NumPy, Pandas, Matplotlib), Bash <br>
 Data Processing: HDF5, HPC (ETH Euler Cluster), Parallel Computing <br>
-ML & Modeling: Neural Networks, Kalman Filters, Time-Series Analysis <br>
+ML & Modeling: Neural Networks, Least Squares Adjustment, Time-Series Analysis <br>
 DevOps & Tools: Git, VS Code, Linux <br>
 
 ### 📌 Interests
