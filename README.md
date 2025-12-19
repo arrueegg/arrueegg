@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Arno
 ### 🚀 PhD Student @ ETH Zürich | Institute of Geodesy and Photogrammetry | Space Geodesy lab 
-I work on data fusion for ionospheric modelling, integrating VLBI, GNSS, and ML to improve global ionospheric maps.
+I develop machine-learning methods for slant ionospheric modelling from GNSS data, omitting conventional mapping functions.
 
 ### 🔧 Tech Stack
 Programming: Python (PyTorch, NumPy, Pandas, Matplotlib), Bash <br>
@@ -9,7 +9,7 @@ Data Processing: HDF5, HPC (CSCS ALPS, ETH Euler), Parallel Computing <br>
 DevOps & Tools: Git, VS Code, Linux <br>
 
 ### 📌 Interests
-🌍 Geodesy & Space Weather | 🤖 AI & Forecasting | 📸 Computer Vision | 🚀 HPC & Scientific Computing
+🌍 Geodesy & Space Weather | 🤖 AI, Forecasting & Uncertainty Quantification | 📸 Computer Vision | 🚀 HPC & Scientific Computing
 
 🔗 Let's connect! https://www.linkedin.com/in/arnorueegg/
 
