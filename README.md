@@ -12,4 +12,5 @@ DevOps & Tools: Git, VS Code, Linux <br>
 🌍 Geodesy & Space Weather | 🤖 AI, Forecasting & Uncertainty Quantification | 📸 Computer Vision | 🚀 HPC & Scientific Computing
 
 🔗 Let's connect! https://www.linkedin.com/in/arnorueegg/
+🌐 Find me here: https://www.arnorueegg.ch/
 
